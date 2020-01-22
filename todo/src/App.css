@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 100%;
+  color: white;
+  font-size: 2rem;
+  max-width: 500px;
+  align-content: center;
+  margin: 0 auto;
+  background-color: rgba(53,51,39,.5);
+}
+
+button {
+  margin: 20px;
+  color: white;
+  background-color: #a10070;
+  border: none;
+  padding: 10px;
+}
